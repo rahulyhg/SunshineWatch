@@ -1,12 +1,8 @@
-Sunshine Weather App (Udacity Nanodgree Assignment)
+Sunshine Weather App for Watch (Udacity Nanodgree Assignment)
 ===================================
 
-Synchronizes weather information from OpenWeatherMap on Android Phones and Tablets. Used in the Udacity Advanced Android course.
-Also includes a watchface for Android smartwatch.
+Synchronizes weather information from OpenWeatherMap on Android Phones and Tablets. Now available for Android smartwatch.
 
-![Alt text](/device1.png?raw=true "Optional Title")
-![Alt text](/CAPTURE.PNG?raw=true "Optional Title")
-![Alt text](/CAPTURE1.PNG?raw=true "Optional Title")
 
 Pre-requisites
 --------------
